@@ -3,7 +3,7 @@ Hi, I'm Carlos Pereira!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://gpvc.arturio.dev/CarlosPereira85" alt="Profile views" align='right'/> <a href="https://github.com/CarlosPereira85/"> </a>
 <p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;Commitment;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Commitment;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <br>
 <h4 align="center">
